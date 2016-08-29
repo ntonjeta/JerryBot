@@ -1,0 +1,4 @@
+twx.botapi
+Flask==0.10.1
+feedparser
+ 
